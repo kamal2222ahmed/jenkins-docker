@@ -5,3 +5,7 @@ Automate Jenkins install/setup using Docker
 2. $ docker run -d --name jenkins-server -p 8080:8080 jenkins/jenkins
 3. open http://localhost:8080
 4. Login as admin/admin
+
+Ref: 
+
+1.  http://mirrors.jenkins-ci.org/plugins/ ( for additional plugins )
