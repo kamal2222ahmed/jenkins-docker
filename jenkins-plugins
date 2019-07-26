@@ -30,3 +30,4 @@ pipeline-input-step
 azure-credentials
 sonar
 junit
+job-dsl
